@@ -1,6 +1,6 @@
 require 'pry'
 
 def my_all?(collection)
-  collection
+  puts collection
 
 end
